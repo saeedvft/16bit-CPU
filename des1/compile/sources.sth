@@ -1,0 +1,18 @@
+[Files List]
+D:\Aldec\Active-HDL-12-x64\vlib\std/src/standard.vhd=S
+D:\Aldec\Active-HDL-12-x64\vlib\std/src/textio.vhd=S
+D:\Aldec\Active-HDL-12-x64\vlib\ieee/src/std_logic_1164.vhdl=S
+D:\Aldec\Active-HDL-12-x64\vlib\ieee/src/std_logic_1164-body.vhdl=S
+D:\Aldec\Active-HDL-12-x64\vlib\ieee/src/numeric_std.vhdl=S
+D:\Aldec\Active-HDL-12-x64\vlib\ieee/src/numeric_std-body.vhdl=S
+D:\Aldec\Active-HDL-12-x64\vlib\ieee/src/arith_p.vhd=S
+D:\Aldec\Active-HDL-12-x64\vlib\ieee/src/arith_b.vhd=S
+D:\Aldec\Active-HDL-12-x64\vlib\ieee/src/unsigned_p.vhd=S
+D:\Aldec\Active-HDL-12-x64\vlib\ieee/src/unsigned_b.vhd=S
+C:\My_Designs\ca_proj\des1/src/ram.vhd=S
+C:\My_Designs\ca_proj\des1/src/pc.vhd=S
+C:\My_Designs\ca_proj\des1/src/ControlUnit.vhd=S
+C:\My_Designs\ca_proj\des1/src/alu.vhd=S
+C:\My_Designs\ca_proj\des1/src/decoder.vhd=S
+C:\My_Designs\ca_proj\des1/src/registerfile.vhd=S
+C:\My_Designs\ca_proj\des1/src/cpu.vhd=S

@@ -1,0 +1,78 @@
+[Project]
+Current Flow=Multivendor
+VCS=0
+version=4
+Current Config=compile
+
+[Configurations]
+compile=des1
+
+[Library]
+des1=.\des1\des1.lib
+
+[$LibMap$]
+des1=.
+Active_lib=
+
+[Settings]
+FLOW_TYPE=HDL
+LANGUAGE=VHDL
+REFRESH_FLOW=1
+FLOWTOOLS=ONLY_IMPL
+ON_SERVERFARM_SYNTH=0
+ON_SERVERFARM_IMPL=0
+ON_SERVERFARM_SIM=0
+fileopenfolder=C:\My_Designs\ca_proj\des1\src
+PCBINTERFACE_STATUS=ERRORS
+IMPL_TOOL=
+SYNTH_TOOL=
+CSYNTH_TOOL=
+PHYSSYNTH_TOOL=
+FAMILY=
+
+[IMPLEMENTATION]
+UCF=
+
+[SpecTracer]
+WindowVisible=0
+
+[HierarchyViewer]
+HierarchyInformation=cpu|Behavioral|0      
+ShowHide=ShowTopLevel
+Selected=
+
+[Groups]
+TestBench=1
+
+[Files]
+/ram.vhd=-1
+/registerfile.vhd=-1
+/cpu.vhd=-1
+/alu.vhd=-1
+/dec4x16.vhd=-1
+/decoder.vhd=-1
+/pc.vhd=-1
+/ControlUnit.vhd=-1
+TestBench/registerfile_TB.vhd=-1
+TestBench/registerfile_TB_runtest.do=-1
+TestBench/decoder_TB.vhd=-1
+TestBench/decoder_TB_runtest.do=-1
+TestBench/alu_TB.vhd=-1
+TestBench/alu_TB_runtest.do=-1
+
+[Files.Data]
+.\src\ram.vhd=VHDL Source Code
+.\src\registerfile.vhd=VHDL Source Code
+.\src\cpu.vhd=VHDL Source Code
+.\src\alu.vhd=VHDL Source Code
+.\src\dec4x16.vhd=VHDL Source Code
+.\src\decoder.vhd=VHDL Source Code
+.\src\pc.vhd=VHDL Source Code
+.\src\ControlUnit.vhd=VHDL Source Code
+.\src\TestBench\registerfile_TB.vhd=VHDL Test Bench
+.\src\TestBench\registerfile_TB_runtest.do=Macro
+.\src\TestBench\decoder_TB.vhd=VHDL Test Bench
+.\src\TestBench\decoder_TB_runtest.do=Macro
+.\src\TestBench\alu_TB.vhd=VHDL Test Bench
+.\src\TestBench\alu_TB_runtest.do=Macro
+

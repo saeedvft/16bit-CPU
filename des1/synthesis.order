@@ -1,0 +1,11 @@
+i<>.\src\cpu.vhd
+i<>.\src\ram.vhd
+i<>.\src\registerfile.vhd
+i<>.\src\alu.vhd
+i<>.\src\dec4x16.vhd
+i<>.\src\decoder.vhd
+i<>.\src\pc.vhd
+i<>.\src\ControlUnit.vhd
+i<>.\src\TestBench\registerfile_TB.vhd
+i<>.\src\TestBench\decoder_TB.vhd
+i<>.\src\TestBench\alu_TB.vhd

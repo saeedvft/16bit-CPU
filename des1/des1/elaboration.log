@@ -1,0 +1,36 @@
+Active-HDL 12.0.118.7745 2024-07-09 02:08:38
+
+Elaboration top modules:
+Architecture                  Behavioral(cpu)
+
+
+-----------------------------------------------------------------------------------------------
+Entity       | Architecture | Library | Info | Compiler Version          | Compilation Options
+-----------------------------------------------------------------------------------------------
+cpu          | Behavioral   | des1    |      | 12.0.118.7745 (Windows64) | -O3
+registerfile | Behavioral   | des1    |      | 12.0.118.7745 (Windows64) | -O3
+decoder      | Behavioral   | des1    |      | 12.0.118.7745 (Windows64) | -O3
+alu          | Behavioral   | des1    |      | 12.0.118.7745 (Windows64) | -O3
+ControlUnit  | Behavioral   | des1    |      | 12.0.118.7745 (Windows64) | -O3
+pc           | Behavioral   | des1    |      | 12.0.118.7745 (Windows64) | -O3
+ram          | Behavioral   | des1    |      | 12.0.118.7745 (Windows64) | -O3
+-----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+VHDL Package                | Library | Info | Compiler Version          | Compilation Options
+-----------------------------------------------------------------------------------------------
+standard                    | std     |      |                           | <unavailable>
+TEXTIO                      | std     |      |                           | <unavailable>
+std_logic_1164              | ieee    |      |                           | <unavailable>
+NUMERIC_STD                 | ieee    |      |                           | <unavailable>
+std_logic_arith             | ieee    |      |                           | <unavailable>
+STD_LOGIC_UNSIGNED          | ieee    |      |                           | <unavailable>
+-----------------------------------------------------------------------------------------------
+
+-----------------------------------------------------------------------------------------------
+Library                     | Comment
+-----------------------------------------------------------------------------------------------
+des1                        | None
+ieee                        | Standard IEEE packages library
+std                         | Standard VHDL library
+-----------------------------------------------------------------------------------------------

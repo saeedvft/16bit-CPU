@@ -1,0 +1,12 @@
+"C:/My_Designs/ca_proj/des1/src/ram.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/registerfile.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/cpu.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/alu.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/dec4x16.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/decoder.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/pc.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/ControlUnit.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/TestBench/registerfile_TB.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/TestBench/decoder_TB.vhd" VHDL des1 1 0 0 -02
+"C:/My_Designs/ca_proj/des1/src/TestBench/alu_TB.vhd" VHDL des1 1 0 0 -02
+. . 0 0 0
