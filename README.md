@@ -19,7 +19,6 @@ This repository contains the design and implementation of a 16-bit CPU. The proj
 6. [Installation](#installation)
 7. [Usage](#usage)
 8. [Contributing](#contributing)
-9. [License](#license)
 
 ---
 
@@ -83,3 +82,14 @@ signal ram: ram_array := (
     '0' & "0010" & "000" & "000" & "00000", -- not r0 (1000)
     others => x"0000"
 );
+```
+Contributing
+------------
+
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+
+1.  Fork the repository.
+
+2.  Create a new branch for your feature or bugfix.
+
+3.  Submit a pull request with a detailed description of your changes.
