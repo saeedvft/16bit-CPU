@@ -15,10 +15,7 @@ This repository contains the design and implementation of a 16-bit CPU. The proj
    - [Datapath](#datapath)
    - [Control Unit](#control-unit)
    - [Memory Unit](#memory-unit)
-5. [Simulation](#simulation)
-6. [Installation](#installation)
-7. [Usage](#usage)
-8. [Contributing](#contributing)
+5. [Contributing](#contributing)
 
 ---
 
