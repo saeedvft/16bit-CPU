@@ -56,7 +56,7 @@ The CPU supports a custom ISA, including instructions for arithmetic operations,
 | LD          | 1100   | Load from memory |
 | ST          | 1101   | Store to memory |
 
-For a detailed description of the ISA, refer to the [ISA Documentation](docs/ISA.md).
+For a detailed description of the ISA, refer to the [ISA Documentation]([docs/ISA.md](https://github.com/saeedvft/16bit-CPU/blob/main/ISA.md)).
 
 ---
 
