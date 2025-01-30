@@ -80,6 +80,10 @@ signal ram: ram_array := (
     others => x"0000"
 );
 ```
+Waveforms:
+![image](https://github.com/user-attachments/assets/f0f240cb-3fd7-427f-b978-610f7e1d117d)
+
+
 Contributing
 ------------
 
