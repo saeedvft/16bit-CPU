@@ -1,6 +1,6 @@
 # 16-bit CPU Design
 
-![GitHub](https://img.shields.io/github/license/saeedvft/16bit-CPU)
+![GitHub](https://img.shields.io/github/license/saeedvft/16bit-CPU?style=flat-square)
 ![GitHub last commit](https://img.shields.io/github/last-commit/saeedvft/16bit-CPU?style=flat-square)
 
 This repository contains the design and implementation of a 16-bit CPU. The project is intended for educational purposes and demonstrates the fundamental concepts of computer architecture, including instruction set design, datapath, control unit, and memory management.
